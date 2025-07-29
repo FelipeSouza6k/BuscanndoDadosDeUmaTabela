@@ -99,4 +99,4 @@ As análises geraram os seguintes gráficos para ilustrar os insights encontrado
 Projeto desenvolvido por **Felipe Rodrigues**.
 
 * **LinkedIn:** [https://www.linkedin.com/in/feliperodriguesdesouzaa/](https://www.linkedin.com/in/feliperodriguesdesouzaa/)
-* **GitHub:** [https://github.com/FeuSouzaz6k](https://github.com/FeuSouza6k)
+* **GitHub:** [https://github.com/FelipeSouzaz6k](https://github.com/FelipeSouza6k)
